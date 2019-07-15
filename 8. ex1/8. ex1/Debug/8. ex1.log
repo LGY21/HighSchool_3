@@ -1,0 +1,5 @@
+﻿  소스.c
+C:\Users\user\source\repos\8. ex1\8. ex1\소스.c(32,16): warning C4020:  'draw_rect': 실제 매개 변수가 너무 많습니다.
+C:\Users\user\source\repos\8. ex1\8. ex1\소스.c(35,10): warning C4477:  'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'void (__cdecl *)(int)'입니다.
+C:\Users\user\source\repos\8. ex1\8. ex1\소스.c(26,9): warning C4101:  'b' :참조되지 않은 지역 변수입니다.
+  8. ex1.vcxproj -> C:\Users\user\source\repos\8. ex1\Debug\8. ex1.exe
